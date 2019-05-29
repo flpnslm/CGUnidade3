@@ -38,6 +38,10 @@ namespace unidade3
       GL.End();
 
       BBox.desenha(this.pontoList);
+      if (this.currentFocusedObject != null)
+      {
+        BBox.desenha(this.currentFocusedObject.getPontoList());
+      }
     }
     public void SRU3D()
     {
@@ -53,6 +57,7 @@ namespace unidade3
       this.currentPoint = null;
       this.primitive = new Primitive();
       this.color = new Colors();
+      this.currentFocusedObject = polygon;
     }
 
     public void AddVertex(double X, double Y, double Z)
