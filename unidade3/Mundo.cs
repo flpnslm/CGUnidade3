@@ -60,6 +60,18 @@ namespace unidade3
       this.currentFocusedObject = polygon;
     }
 
+    public bool clickedPolygon(double x, double y)
+    {
+      foreach (Polygon polygon in this.polygonList)
+      {
+        if (polygon.clickedInside(x, y))
+        {
+          this.currentFocusedObject = polygon;
+          return true;
+        }
+      }
+      return false;
+    }
     public void AddVertex(double X, double Y, double Z)
     {
       this.IsInserting = true;

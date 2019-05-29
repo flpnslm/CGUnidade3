@@ -42,7 +42,10 @@ namespace unidade3
     }
     protected override void OnMouseDown(OpenTK.Input.MouseButtonEventArgs e)
     {
-      this.mundo.AddVertex(e.X, e.Y, 1);
+      if (!this.mundo.clickedPolygon(e.X, e.Y))
+      {
+        this.mundo.AddVertex(e.X, e.Y, 1);
+      }
     }
     protected override void OnKeyPress(KeyPressEventArgs e)
     {
