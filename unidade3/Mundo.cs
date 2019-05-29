@@ -36,6 +36,8 @@ namespace unidade3
           GL.Vertex3(ponto.X, ponto.Y, ponto.Z);
         }
       GL.End();
+
+      BBox.desenha(this.pontoList);
     }
     public void SRU3D()
     {

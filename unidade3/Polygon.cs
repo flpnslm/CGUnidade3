@@ -8,7 +8,7 @@ namespace unidade3
 {
      class Polygon
     {
-        List<Ponto4D> pontoList = new List<Ponto4D>();
+        public List<Ponto4D> pontoList = new List<Ponto4D>();
         Primitive primitive = new Primitive();
         Colors color = new Colors();
         public Polygon (List<Ponto4D> pontoList, Primitive primitive, Colors color)
@@ -29,6 +29,11 @@ namespace unidade3
                 GL.Vertex3(ponto.X, ponto.Y, ponto.Z);
             }
             GL.End();
+        }
+
+        public List<Ponto4D> getPontoList()
+        {
+            return this.pontoList;
         }
     }
 }

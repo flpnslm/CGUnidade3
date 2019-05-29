@@ -86,3 +86,14 @@ C:\Users\Felipe Anselmo\Documents\Computação Gráfica\unidade3\obj\Debug\netco
 C:\Users\Felipe Anselmo\Documents\Computação Gráfica\unidade3\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.AssemblyInfo.cs
 C:\Users\Felipe Anselmo\Documents\Computação Gráfica\unidade3\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.dll
 C:\Users\Felipe Anselmo\Documents\Computação Gráfica\unidade3\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.pdb
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.deps.json
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.runtimeconfig.json
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.runtimeconfig.dev.json
+c:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.dll
+c:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.pdb
+c:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.csprojAssemblyReference.cache
+c:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.csproj.CoreCompileInputs.cache
+c:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.AssemblyInfoInputs.cache
+c:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.AssemblyInfo.cs
+c:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.dll
+c:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnidade3\unidade3\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.pdb
