@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Felipe Anselmo\\Documents\\Computação Gráfica\\gcg-cg\\Exercicios\\exercicio4\\CG-N2_HelloWorld.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
